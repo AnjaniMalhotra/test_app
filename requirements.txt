@@ -1,0 +1,12 @@
+streamlit
+pandas
+python-dotenv
+pytz
+supabase
+requests
+PyGithub
+matplotlib
+
+
+
+
